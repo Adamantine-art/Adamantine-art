@@ -1,7 +1,7 @@
 <h1 align="center">Heyy! My name is ✨Andrea✨</h1>
-<h3 align="center">I'm a Front End Developer and UX UI Designer from Chile🏔</h3>
+<h3 align="center" color="C576F6">I'm a Front End Developer and UX UI Designer from Chile🏔</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamantine-art&label=Profile%20views&color=0e75b6&style=flat" alt="adamantine-art" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamantine-art&label=Profile%20views&color=C576F6&style=flat" alt="adamantine-art" /> </p>
 
 - 💻 I’m currently working on [Markdown Links](https://github.com/Adamantine-art/markdown-links)
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adamantine-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamantine-dev" height="40" width="40" /></a>
-<a href="https://www.behance.net/adamantine-art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adamantine-art" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/adamantine-dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="adamantine-dev" height="40" width="40" /></a>
+<a href="https://www.behance.net/adamantine-art" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536806.png" alt="adamantine-art" height="40" width="40" /></a>
 <a style="margin-left: 10px;" target="_blank" href="https://github.com/adamantine-art"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="40" height="40"></a>
 </p>
 <br>
