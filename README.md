@@ -1,19 +1,21 @@
 <h1 align="center">Heyy! My name is ✨Andrea✨</h1>
+
 <h3 align="center" color="C576F6">I'm a Front End Developer and UX UI Designer from Chile🏔</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamantine-art&label=Profile%20views&color=C576F6&style=flat" alt="adamantine-art" /> </p>
 
-- 💻 I’m currently working on [Markdown Links](https://github.com/Adamantine-art/markdown-links)
+✦ 💻 I’m currently working on [Markdown Links](https://github.com/Adamantine-art/markdown-links)
 
-- 🌱 I’m currently learning **Node.js, React and Three.js**
+✦ 🌱 I’m currently learning **Node.js, React and Three.js**
 
-- 💎 All of my projects are available at [https://github.com/Adamantine-art/](https://github.com/Adamantine-art/)
+✦ 💎 All of my projects are available at [https://github.com/Adamantine-art/](https://github.com/Adamantine-art/)
 
-- 📫 You can email me at **andreita.mosqueira@gmail.com**
+✦ 📫 You can email me at **andreita.mosqueira@gmail.com**
 
-- 📄 You can check my resume here [https://drive.google.com/file/d/1-XBBB8SRixh-lldsFnxDgf8hZ9ORfSQf/view?usp=sharing](https://drive.google.com/file/d/1-XBBB8SRixh-lldsFnxDgf8hZ9ORfSQf/view?usp=sharing)
+✦ 📄 You can check my resume here [https://drive.google.com/file/d/1-XBBB8SRixh-lldsFnxDgf8hZ9ORfSQf/view?usp=sharing](https://drive.google.com/file/d/1-XBBB8SRixh-lldsFnxDgf8hZ9ORfSQf/view?usp=sharing)
 
-- ⚡ Fun fact **I started as a Tattoo Artist and ended up as a Developer**😆
+✦ ⚡ Fun fact **I started as a Tattoo Artist and ended up as a Developer**😆
+
 
 <br>
 
