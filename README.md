@@ -8,7 +8,7 @@
 
 ✦ 🌱 I’m currently learning **NodeJS and React**
 
-✦ 💎 All of my projects are available at [https://github.com/Adamantine-art/](https://github.com/Adamantine-art/)
+✦ 💎 All of my projects are available at [https://github.com/Adamantine-art?tab=repositories](https://github.com/Adamantine-art?tab=repositories)
 
 ✦ 📫 You can email me at **andreita.mosqueira@gmail.com**
 
