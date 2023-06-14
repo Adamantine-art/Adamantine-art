@@ -6,7 +6,7 @@
 
 ✦ 💻 I’m currently working on [Adamantine Notes](https://github.com/Adamantine-art/Adamantine-notes)
 
-✦ 🌱 I’m currently learning **React and NextJS**
+✦ 🌱 I’m currently learning **TypeScript, React and NextJS**
 
 ✦ 💎 All of my projects are available at [https://github.com/Adamantine-art?tab=repositories](https://github.com/Adamantine-art?tab=repositories)
 
