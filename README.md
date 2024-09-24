@@ -10,7 +10,7 @@
 
 ✦ 📫 You can email me at **andreita.mosqueira@gmail.com**
 
-✦ 📄 You can check my resume here [https://drive.google.com/file/d/1XXn6pkGVuLeNITXZFxljow7yjYZlmOET/view](https://drive.google.com/file/d/1XXn6pkGVuLeNITXZFxljow7yjYZlmOET/view)
+✦ 📄 You can check my resume here [https://drive.google.com/drive/u/0/folders/1YSbYmhIoV7GvLh0DuM3HJaAjfUHKAzAq](https://drive.google.com/drive/u/0/folders/1YSbYmhIoV7GvLh0DuM3HJaAjfUHKAzAq)
 
 ✦ ⚡ Fun fact **I started as a Tattoo Artist and ended up as a Developer**😆
 
