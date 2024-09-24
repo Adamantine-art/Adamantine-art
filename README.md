@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamantine-art&label=Profile%20views&color=C576F6&style=flat" alt="adamantine-art" /> </p>
 
-!---✦ 💻 I’m currently working on [Adamantine Notes](https://github.com/Adamantine-art/Adamantine-notes)--->
-
 ✦ 🌱 I’m currently learning **WebGL and Three.js**
 
 ✦ 💎 All of my projects are available at [https://github.com/Adamantine-art?tab=repositories](https://github.com/Adamantine-art?tab=repositories)
